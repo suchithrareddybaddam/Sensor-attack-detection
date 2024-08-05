@@ -1,0 +1,2 @@
+python SensorAttackDetection.py
+pause
